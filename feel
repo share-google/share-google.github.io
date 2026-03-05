@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>New Redirect</title>
+
+<script>
+window.location.replace("https://chat.whatsapp.com/B9kqmmE2vYV2pEZVSHoZ55");
+</script>
+
+<noscript>
+<meta http-equiv="refresh" content="0;url=https://chat.whatsapp.com/B9kqmmE2vYV2pEZVSHoZ55">
+</noscript>
+
+</head>
+<body>
+</body>
+</html>
